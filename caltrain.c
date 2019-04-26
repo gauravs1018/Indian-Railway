@@ -1,6 +1,6 @@
 #include <pthread.h>
 #include "caltrain.h"
-amfsbwkfbwkufbwiufwuu
+gDSaufhwhfwhffwhfwffnakjjv
 struct station {
   int out_passengers; // in station waiting passengers
   int in_passengers; // in train passengers 
